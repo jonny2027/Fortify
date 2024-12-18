@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\development\\fortify\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fortify\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\development\\fortify\\intermediate\\build\\win64\\x64\\fortifyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\development\\fortify\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fortify\\definitions.fortify.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

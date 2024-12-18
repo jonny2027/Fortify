@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Development\\Fortify\\Game\\Source\\Fortify\\Fortify.Build.cs",
+		"C:\\Development\\Fortify\\Game\\Source\\Fortify.Target.cs",
+		"C:\\Development\\Fortify\\Game\\Source\\FortifyEditor.Target.cs",
+		"C:\\Development\\Fortify\\Game\\Source\\FortifyServer.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

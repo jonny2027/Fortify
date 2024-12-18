@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0E1B1D75-46C6-2D69-60A5-8EBFF960ED2F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Fortify",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}

@@ -1,0 +1,389 @@
+{
+	"ConfigurationsAndPlatforms": [
+		{
+			"Configuration": "Debug",
+			"Platform": "Android",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Android",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Android",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Android",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Android",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Android",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Android",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Android",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Android",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Android",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Debug",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Android",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Android",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Android",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Editor"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Android",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Android",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Android",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Android",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Android",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Android",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Android",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Android",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Win64",
+			"Target": "Client"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Android",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Win64",
+			"Target": "Server"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Android",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Win64",
+			"Target": "Game"
+		},
+		{
+			"Configuration": "Test",
+			"Platform": "Win64",
+			"Target": "Game"
+		}
+	]
+}

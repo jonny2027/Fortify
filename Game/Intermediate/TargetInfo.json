@@ -1,0 +1,19 @@
+{
+	"Targets": [
+		{
+			"Name": "Fortify",
+			"Path": "..\\Source\\Fortify.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FortifyEditor",
+			"Path": "..\\Source\\FortifyEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "FortifyServer",
+			"Path": "..\\Source\\FortifyServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}

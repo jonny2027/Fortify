@@ -1,0 +1,96 @@
+Log started at 12/18/2024 10:41:24 (2024-12-18T10:41:24Z)
+No config file at C:\Development\Fortify\Engine\Engine\Restricted\NotForLicensees\Programs\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\ProgramData\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\Job\AppData\Local\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\Job\Documents\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Configuration will be read from:
+  C:\Development\Fortify\Engine\Engine\Saved\UnrealBuildTool\BuildConfiguration.xml
+  C:\Users\Job\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Log file: C:\Development\Fortify\Game\Saved\Logs\UnrealVersionSelector-2024.12.18-10.41.23.log
+
+Setting temp directory to 'C:\Users\Job\AppData\Local\Temp\UnrealBuildTool\2831fb21'
+    Registering build platform: UnrealBuildTool.AndroidPlatformFactory
+Android Installed SDK(s): MinVersion_Sdk=r25b, MaxVersion_Sdk=r27, CurrentVersion_Sdk=r25b, Version_AutoSdk=r25b, CurrentVersion_AutoSdk=
+        Registering build platform: Android - buildable: True
+    Registering build platform: UnrealBuildTool.IOSPlatformFactory
+Unable to find valid SDK(s) for IOS:
+  Found Sdk Version, MinRequired=1100.0.0.0, MaxRequired=8999.0.
+  Found AutoSdk Version, Required=15.2.
+        Registering build platform: IOS - buildable: False
+    Registering build platform: UnrealBuildTool.LinuxPlatformFactory
+Unable to find valid SDK(s) for Linux:
+  Found Sdk Version, Required=v23_clang-18.1.0-rockylinux8.
+  Found AutoSdk Version, Required=v23_clang-18.1.0-rockylinux8.
+        Registering build platform: Linux - buildable: False
+Unable to find valid SDK(s) for LinuxArm64:
+  Found Sdk Version, Required=v23_clang-18.1.0-rockylinux8.
+  Found AutoSdk Version, Required=v23_clang-18.1.0-rockylinux8.
+        Registering build platform: LinuxArm64 - buildable: False
+    Registering build platform: UnrealBuildTool.MacPlatformFactory
+Unable to find valid SDK(s) for Mac:
+  Found Sdk Version, MinRequired=1100.0.0.0, MaxRequired=8999.0.
+  Found AutoSdk Version, Required=15.2.
+        Registering build platform: Mac - buildable: False
+    Registering build platform: UnrealBuildTool.TVOSPlatformFactory
+Unable to find valid SDK(s) for TVOS:
+  Found Sdk Version, MinRequired=1100.0.0.0, MaxRequired=8999.0.
+  Found AutoSdk Version, Required=15.2.
+        Registering build platform: TVOS - buildable: False
+    Registering build platform: UnrealBuildTool.WindowsPlatformFactory
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+Found Windows 10 SDK version 10.0.22621.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.22621.0 at C:\Program Files (x86)\Windows Kits\10
+Win64 Installed SDK(s): MinVersion_Sdk=10.0.19041.0, MaxVersion_Sdk=10.9.99999.0, CurrentVersion_Sdk=10.0.22621.0, Version_AutoSdk=10.0.22621.0, CurrentVersion_AutoSdk=
+        Registering build platform: Win64 - buildable: True
+    Registering build platform: UnrealBuildTool.VisionOSPlatformFactory
+        Registering build platform: VisionOS - buildable: False
+Log file: C:\Development\Fortify\Engine\Engine\Programs\UnrealBuildTool\Log_GPF.txt
+Resolved project argument C:/Development/Fortify/Game/Fortify.uproject to C:\Development\Fortify\Game\Fortify.uproject
+Registering project generator UnrealBuildTool.AndroidProjectGenerator for Android
+Registering project generator UnrealBuildTool.IOSProjectGenerator for IOS
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for Linux
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for LinuxArm64
+Registering project generator UnrealBuildTool.MacProjectGenerator for Mac
+Registering project generator UnrealBuildTool.TVOSProjectGenerator for TVOS
+Registering project generator UnrealBuildTool.WindowsProjectGenerator for Win64
+Registering project generator UnrealBuildTool.VisionOSProjectGenerator for VisionOS
+
+---   SDK INFO START   ---
+
+Some Platforms were skipped due to invalid SDK setup: Mac, IOS, Linux, LinuxArm64, TVOS.
+See the log file for detailed information
+
+---   SDK INFO END   ---
+
+
+Generating VisualStudio project files:
+Discovering modules, targets and source code for project...
+Updating C:\Development\Fortify\Engine\Engine\Intermediate\ProjectFiles\PrimaryProjectName.txt: contents have changed. Saving previous version to C:\Development\Fortify\Engine\Engine\Intermediate\ProjectFiles\PrimaryProjectName.txt.old.
+Updating C:\Development\Fortify\Engine\Engine\Intermediate\ProjectFiles\PrimaryProjectPath.txt: contents have changed. Saving previous version to C:\Development\Fortify\Engine\Engine\Intermediate\ProjectFiles\PrimaryProjectPath.txt.old.
+Found VisualStudio2022 installation: C:\Program Files\Microsoft Visual Studio\2022\Professional (Product=Microsoft.VisualStudio.Product.Professional, Version=17.12.35527.113)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.36.32532 (Family=14.36.32532, FamilyRank=1, Version=14.36.32546, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64, Error=True, Redist=C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Redist\MSVC\14.42.34433)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130 (Family=14.38.33130, FamilyRank=0, Version=14.38.33143, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Redist\MSVC\14.38.33130)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433 (Family=14.42.34433, FamilyRank=1, Version=14.42.34435, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Redist\MSVC\14.42.34433)
+Detected supported platforms: Win64, Mac, IOS, Android, Linux, LinuxArm64, TVOS, VisionOS
+Generating target Client for C:\Development\Fortify\Game\Intermediate\ProjectFiles\UE5.vcxproj
+Generating target Editor for C:\Development\Fortify\Game\Intermediate\ProjectFiles\UE5.vcxproj
+Generating target Game for C:\Development\Fortify\Game\Intermediate\ProjectFiles\UE5.vcxproj
+Generating target Server for C:\Development\Fortify\Game\Intermediate\ProjectFiles\UE5.vcxproj
+Compiling C:\Development\Fortify\Game\Intermediate\Build\BuildRules\FortifyModuleRules.dll: UnrealBuildTool.dll is newer
+C:\Development\Fortify\Game\Source\FortifyServer.Target.cs(6,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'FortifyTarget'
+C:\Development\Fortify\Game\Source\FortifyServer.Target.cs(8,9): error CS0111: Type 'FortifyTarget' already defines a member called 'FortifyTarget' with the same parameter types
+Total execution time: 1.91 seconds
+Expecting to find a type to be declared in a target rules named 'FortifyTarget'.  This type must derive from the 'TargetRules' type defined by UnrealBuildTool.
+CompilationResultException: Expecting to find a type to be declared in a target rules named 'FortifyTarget'.  This type must derive from the 'TargetRules' type defined by UnrealBuildTool.
+   at UnrealBuildTool.RulesAssembly.CreateTargetRules(String TargetName, UnrealTargetPlatform Platform, UnrealTargetConfiguration Configuration, UnrealArchitectures Architectures, FileReference ProjectFile, CommandLineArguments Arguments, ILogger Logger, Boolean IsTestTarget, TargetRulesValidationOptions ValidationOptions, UnrealIntermediateEnvironment IntermediateEnvironment) in C:\Development\Fortify\Engine\Engine\Source\Programs\UnrealBuildTool\System\RulesAssembly.cs:line 884
+   at UnrealBuildTool.ProjectFileGenerator.AddProjectsForAllTargets(PlatformProjectGeneratorCollection PlatformProjectGenerators, List`1 AllGames, List`1 AllTargetFiles, String[] Arguments, List`1 EngineProjects, List`1 GameProjects, Dictionary`2 ProjectFileToUProjectFile, Dictionary`2 ProgramProjects, Dictionary`2 RulesAssemblies, ILogger Logger) in C:\Development\Fortify\Engine\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 2799
+   at UnrealBuildTool.ProjectFileGenerator.GenerateProjectFiles(PlatformProjectGeneratorCollection PlatformProjectGenerators, String[] Arguments, Boolean bCacheDataForEditor, ILogger Logger) in C:\Development\Fortify\Engine\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 1048
+   at UnrealBuildTool.GenerateProjectFilesMode.ExecuteAsync(CommandLineArguments Arguments, ILogger Logger) in C:\Development\Fortify\Engine\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 260
+   at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray) in C:\Development\Fortify\Engine\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.cs:line 687
+WriteFileIfChanged() wrote 2 changed files of 2 requested writes.
+Timeline:
+
+[ 0.000]
+[ 0.000](+1.926) <unknown>
+[ 1.926]
