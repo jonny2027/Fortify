@@ -1,0 +1,1 @@
+start "" "Fortify/Binaries/Win64/FortifyServer.exe" -debug -log -ABSLOG="Logs/FortifyServerLog.txt" -ConsoleX=5 -ConsoleY=10 -Messaging -Windowed -NoTimeouts

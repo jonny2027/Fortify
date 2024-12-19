@@ -1,1 +1,0 @@
-call RunUAT.bat" BuildCookRun -log -ABSLOG=../Logs/Logs.txt -project=../Asylum/Asylum.uproject -nop4 -platform=Win64 -serverplatform=Win64 -cook -iterate -server -client -serverconfig=Development -clientconfig=Development
